@@ -1,4 +1,4 @@
-+ `ruby`, all tools are made in `ruby`
++`ruby`, all tools are made in `ruby`
 ```sh
 sudo dnf install ruby
 ```
